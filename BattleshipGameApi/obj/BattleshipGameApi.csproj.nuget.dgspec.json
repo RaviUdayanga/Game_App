@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GameAppBackEnd\\BattleshipGameApi\\BattleshipGameApi.csproj": {}
+    "D:\\git game app\\Front end\\Game_App\\BattleshipGameApi\\BattleshipGameApi.csproj": {}
   },
   "projects": {
-    "D:\\GameAppBackEnd\\BattleshipGameApi\\BattleshipGameApi.csproj": {
+    "D:\\git game app\\Front end\\Game_App\\BattleshipGameApi\\BattleshipGameApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GameAppBackEnd\\BattleshipGameApi\\BattleshipGameApi.csproj",
+        "projectUniqueName": "D:\\git game app\\Front end\\Game_App\\BattleshipGameApi\\BattleshipGameApi.csproj",
         "projectName": "BattleshipGameApi",
-        "projectPath": "D:\\GameAppBackEnd\\BattleshipGameApi\\BattleshipGameApi.csproj",
+        "projectPath": "D:\\git game app\\Front end\\Game_App\\BattleshipGameApi\\BattleshipGameApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\GameAppBackEnd\\BattleshipGameApi\\obj\\",
+        "outputPath": "D:\\git game app\\Front end\\Game_App\\BattleshipGameApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
